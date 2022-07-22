@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AI-DEMO</string>
+    <string-array name="model_array">
+        <item>人脸检测</item>
+        <item>电瓶车检测</item>
+        <item>快速车牌检测</item>
+        <item>车牌识别</item>
+        <item>快速车辆检测</item>
+        <item>电表检测</item>
+    </string-array>
+    <string-array name="cpugpu_array">
+        <item>CPU</item>
+        <item>GPU</item>
+    </string-array>
+</resources>
