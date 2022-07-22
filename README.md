@@ -1,7 +1,11 @@
 # ncnn-android-scrfd
 
-The SCRFD face detection
-
+AiMobile includes the following detection tasks:
+人脸检测
+电瓶车检测
+车牌识别
+电表检测
+and you can add extra tasks by modilfing the \app\src\main\res\layout\main.xml.
 This is a sample ncnn android project, it depends on ncnn library and opencv
 
 https://github.com/Tencent/ncnn
@@ -9,9 +13,14 @@ https://github.com/Tencent/ncnn
 https://github.com/nihui/opencv-mobile
 
 ## android apk file download
-https://github.com/nihui/ncnn-android-scrfd/releases/download/v2/com.tencent.scrfdncnn-release.apk
+链接：https://pan.baidu.com/s/1hjP6HKUOC89DR1fVh7haoA 
+提取码：kze1 
 
 ## how to build and run
+the following files can be downloaded in 
+链接：https://pan.baidu.com/s/1KvYDd0ah8aD_VOSukGHjjQ 
+提取码：qh0o 
+
 ### step1
 https://github.com/Tencent/ncnn/releases
 
